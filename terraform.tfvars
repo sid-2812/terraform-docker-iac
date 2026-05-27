@@ -1,0 +1,1 @@
+file_content = "This content comes from terraform variable"
